@@ -1,6 +1,6 @@
 # whatsapp_ui
 
-A new Flutter project.
+An app designed with flutter that shows static whatsapp UI.
 
 ## Getting Started
 
