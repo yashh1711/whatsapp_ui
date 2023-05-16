@@ -12,10 +12,10 @@ class CommunityWidget extends StatelessWidget {
         const Padding(
           padding: EdgeInsets.all(28.0),
           child: Image(
-              height: 200,
-              width: 200,
-              image: NetworkImage(
-                  'https://www.shutterstock.com/image-vector/heart-holding-by-diverse-hands-600w-1737747614.jpg')),
+            height: 200,
+            width: 200,
+            image: AssetImage('assets/commt.png'),
+          ),
         ),
         RichText(
           textAlign: TextAlign.center,
